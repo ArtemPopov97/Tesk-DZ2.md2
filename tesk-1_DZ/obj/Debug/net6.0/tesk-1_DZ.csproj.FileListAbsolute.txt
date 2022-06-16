@@ -1,0 +1,15 @@
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\bin\Debug\net6.0\tesk-1_DZ.exe
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\bin\Debug\net6.0\tesk-1_DZ.deps.json
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\bin\Debug\net6.0\tesk-1_DZ.runtimeconfig.json
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\bin\Debug\net6.0\tesk-1_DZ.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\bin\Debug\net6.0\tesk-1_DZ.pdb
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.csproj.AssemblyReference.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.AssemblyInfoInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.AssemblyInfo.cs
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\refint\tesk-1_DZ.dll
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.pdb
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\tesk-1_DZ.genruntimeconfig.cache
+C:\Users\Вкусвилл\Desktop\C#2\Tesk-DZ2.md2\tesk-1_DZ\obj\Debug\net6.0\ref\tesk-1_DZ.dll
